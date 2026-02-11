@@ -19,7 +19,7 @@
  * @wordpress-plugin
  * Plugin Name:       Semrush SEO Writing Assistant
  * Plugin URI:        https://www.semrush.com/swa/
- * Description:       The Semrush SEO Writing Assistant provides instant recommendations for content optimization based on the best-performing articles in the Google top-10.
+ * Description:       The Semrush SEO Writing Assistant provides instant recommendations for content optimization based on the best-performing articles in Google's top 10.
  * Version:           1.2.1
  * Author:            Semrush
  * Author URI:        https://www.semrush.com/

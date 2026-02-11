@@ -4,11 +4,11 @@ Tags: seo, readability, content analysis, content marketing
 Requires at least: 4.8
 Requires PHP: 5.2.4
 Stable tag: trunk
-Tested up to: 6.6
+Tested up to: 6.9
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Semrush SEO Writing Assistant provides instant recommendations for content optimization based on the best-performing articles in the Google top 10.
+The Semrush SEO Writing Assistant provides instant recommendations for content optimization based on the best-performing articles in Google's top 10.
 
 == Description ==
 
